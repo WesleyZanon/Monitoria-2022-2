@@ -6,7 +6,7 @@ Fazer o download da pasta 'Projeto' e colocar na sua IDE de preferencia (recomen
 Enunciado do exercicio logo a baixo ou na pasta 'enunciado'.
 
 # link do video de apresentação:
-sdfsdfsd
+https://youtu.be/oyFnbiXrMx8
 
 
 # Enunciado
